@@ -42,3 +42,43 @@ El plan es que después de reclamar el premio los empleados o voluntarios se tie
 - Utilizar la paleta de colores que nos dieron para diseñar en Figma
 - Requerimiento no funcional: La DB tiene que ser SQL Server 2008
 
+## Reunión 1
+
+Navbar
+
+- Eventos
+- Tienda
+- Perfil
+
+Pantallas:
+
+1. Splash
+2. Login
+3. Pre-registro (voluntario y empleado):
+   - Diferentes botones según el tipo de registro
+4- Main
+5. Eventos
+6. Canjear
+   - Historial de canjeo de recompensas
+7. Perfil:
+
+Pendiente por resolver:
+
+- Nombre de la app
+- Cómo hacer el pase de lista
+- Streak de abrir la aplicación
+
+Preguntas:
+
+- Exposure caritas
+- Cómo registrar
+- Cómo obtener XP
+- Privilegios por XP alto
+
+Preguntas a Cáritas:
+
+- Se espera que un administrador pueda accesar dentro de la misma aplicación para visualizar la interacción de los empleados / voluntarios? O los administradores accesarían por otro medio para registrar eventos, ver estadísticas, etc.?
+
+
+
+![Pizarron](assets/3bddf9277f24d1e832be260254a868ecac1ff192.jpeg)
