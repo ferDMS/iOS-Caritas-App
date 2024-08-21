@@ -56,7 +56,7 @@ Pantallas:
 2. Login
 3. Pre-registro (voluntario y empleado):
    - Diferentes botones según el tipo de registro
-4- Main
+4. Main
 5. Eventos
 6. Canjear
    - Historial de canjeo de recompensas
